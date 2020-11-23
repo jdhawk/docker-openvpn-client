@@ -8,7 +8,7 @@
 # https://github.com/phusion/baseimage-docker/blob/master/Changelog.md
 # for a list of version numbers.
 
-FROM phusion/baseimage:latest
+FROM phusion/baseimage:latest-amd64
 MAINTAINER Diego Schmidt <dceschmidt@gmail.com>
 
 # Evironment variables
